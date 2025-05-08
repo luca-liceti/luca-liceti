@@ -1,4 +1,10 @@
-## Hi there 👋
+## About Me
+
+- 👋 Hi, I’m @luca-liceti
+- 🎓 CS graduate from SBCC | Pursuing CIS
+- 💻 Experience with Java, Python, C, C++, Assembly, HTML, and CSS
+- 🔍 Interested in cybersecurity, Linux, and robotics related
+- 🤝 Open to collaborating on community-driven projects and learning opportunities
 
 <!--
 **luca-liceti/luca-liceti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
