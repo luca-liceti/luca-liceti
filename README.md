@@ -1,9 +1,9 @@
 ## About Me
 
 - 👋 Hi, I’m @luca-liceti
-- 🎓 CS graduate from SBCC | Pursuing CIS
+- 🎓 CS graduate currently pursuing Automotive Technology
 - 💻 Experience with Java, Python, C, C++, Assembly, HTML, and CSS
-- 🔍 Interested in cybersecurity, Linux, and robotics related
+- 🔍 Interested in cybersecurity, Linux, and robotics-related
 - 🤝 Open to collaborating on community-driven projects and learning opportunities
 
 <!--
